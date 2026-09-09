@@ -38,7 +38,7 @@ popd
 
 if not "%CODE%"=="0" goto failed
 
-echo built %OUT%\mini.dll
+echo built %OUT%\ChuStrike2.dll
 endlocal
 exit /b 0
 
